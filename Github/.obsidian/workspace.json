@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "747b12a9a7d9e9a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "43f5e58bb24e2181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b4ada9846b1865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База знания.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5027617378c4a9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a86aa52e73dcabc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39740598271369d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf586a5756ba4c95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b87cf554d68c683",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9cbfe470e8dd393",
+    "type": "split",
+    "children": [
+      {
+        "id": "f53d7b11c2d5bbdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca38248aa31e290",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "База знания.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b4d2570105fc1bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "База знания.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba2ff5cc4906838a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a12b8c3337053a8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "База знания.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "05b4ada9846b1865",
+  "lastOpenFiles": []
+}
